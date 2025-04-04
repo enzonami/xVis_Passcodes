@@ -1,7 +1,13 @@
 # XMultiplier Access Keys
 
-# List of valid keys (one per line)
-swordmaster123
-bladeking456
-adminxyz789
-shadowstrike101
+Below is the list of valid access keys in JSON format:
+
+```json
+{
+  "keys": [
+    "swordmaster123",
+    "bladeking456",
+    "adminxyz789",
+    "shadowstrike101"
+  ]
+}
