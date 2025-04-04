@@ -1,13 +1,8 @@
 # xVis_Passcodes
 
-Passcodes for xVis are stored below:
+Passcodes for xVis:
 
-```json
-{
-  "keys": [
-    "swordmaster123",
-    "bladeking456",
-    "adminxyz789",
-    "shadowstrike101"
-  ]
-}
+swordmaster123
+bladeking456
+adminxyz789
+shadowstrike101
