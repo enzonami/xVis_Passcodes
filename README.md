@@ -9,3 +9,5 @@ shadowstrike101
 dazza1478
 
 https://discord.gg/aFj4pDjR
+
+v1.0.0
