@@ -1,4 +1,4 @@
-v1.0.7
+v1.0.17
 
 ## Announcements
 Script is online. Check the [Discord](https://discord.gg/aFj4pDjR) for a tutorial and to gain key access.
